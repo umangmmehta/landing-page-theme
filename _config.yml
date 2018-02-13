@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://youtu.be/w-SUw_QF4qA
-title: Wedding Invitation
+url:
+title:
 email: umangwedsdhwani@gmail.com
 author: Umang Mehta
 description: > # "Write an awesome description for your new site here.
@@ -27,3 +27,5 @@ social:
     url: https://twitter.com/umani2018
   - title: facebook
     url: https://www.facebook.com/umaani
+  - title: youtube
+    url: https://youtu.be/w-SUw_QF4qA
