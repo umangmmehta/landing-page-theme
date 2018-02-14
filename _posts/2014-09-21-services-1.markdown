@@ -1,8 +1,9 @@
 ---
 layout: default
-img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+img: location.jpg
+url: https://www.google.com/maps/dir/''/daffodils+banquet/data=!4m5!4m4!1m0!1m2!1m1!1s0x3be7b6f11597d551:0x3e512497d57a51b2?sa=X&ved=0ahUKEwiQz-my_qPZAhUn5oMKHZq4Bp4Q9RcIogEwDw
+category: Location
+title: The Venue
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Daffodils Banquet Hall, Club Link Building, Next to Toyota Showroom, New Link Rd, Rajan Pada, Mindspace, Malad West, Mumbai, Maharashtra 400064, India
